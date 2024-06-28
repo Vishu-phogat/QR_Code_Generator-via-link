@@ -27,7 +27,7 @@ Install project with npm
 1. cd QR_Code_Generator-via-link
 2. npm install inquirer qr-image
 3. node index.js
-4. type the URL you want to make QR-Code for.
+4. Type the URL you want to make QR-Code for.
 ```
 
 ## output
