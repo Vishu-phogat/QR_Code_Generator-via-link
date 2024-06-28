@@ -7,9 +7,10 @@
 
 ## Screenshot
 
+installing npm dependencies:
 <img width="1440" alt="Screenshot 2024-06-28 at 7 21 19 PM" src="https://github.com/Vishu-phogat/QR_Code_Generator-via-link/assets/108395193/5f3e62d8-dcd3-43d7-a497-d407eae697be">
 
-
+given https://www.google.com/ as input:
 <img width="1440" alt="Screenshot 2024-06-28 at 7 03 56 PM" src="https://github.com/Vishu-phogat/QR_Code_Generator-via-link/assets/108395193/3ac7c54a-73ef-4160-a866-ea697991d308">
 
 ## Installation
