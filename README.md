@@ -7,10 +7,10 @@
 
 ## Screenshot
 
-<img width="800" alt="Screenshot 2022-08-01 at 2 06 02 AM" src="https://user-images.githubusercontent.com/67600291/182045068-a505c28a-996c-463a-bb0c-45acc5de9c93.png">
+<img width="1440" alt="Screenshot 2024-06-28 at 7 21 19 PM" src="https://github.com/Vishu-phogat/QR_Code_Generator-via-link/assets/108395193/5f3e62d8-dcd3-43d7-a497-d407eae697be">
 
 
-<img width="800" alt="Screenshot 2022-08-01 at 2 28 04 AM" src="https://user-images.githubusercontent.com/67600291/182045110-5b40b6d7-e74b-4f35-ba5e-58df35367ae2.png">
+<img width="1440" alt="Screenshot 2024-06-28 at 7 03 56 PM" src="https://github.com/Vishu-phogat/QR_Code_Generator-via-link/assets/108395193/3ac7c54a-73ef-4160-a866-ea697991d308">
 
 ## Installation
 
