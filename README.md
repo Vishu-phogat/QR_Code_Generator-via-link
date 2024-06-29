@@ -5,10 +5,10 @@
 **Client:** Node.js.
 
 
+installed npm dependencies:
+inquirer, qr-image;
+
 ## Screenshot
-
-installing npm dependencies:
-
 
 <img width="800" alt="Screenshot 2024-06-28 at 7 21 19 PM" src="https://github.com/Vishu-phogat/QR_Code_Generator-via-link/assets/108395193/5f3e62d8-dcd3-43d7-a497-d407eae697be">
 
@@ -25,9 +25,8 @@ Install project with npm
 
 ```bash
 1. cd QR_Code_Generator-via-link
-2. npm install inquirer qr-image
-3. node index.js
-4. Type the URL you want to make QR-Code for.
+2. node index.js
+3. Type the URL you want to make QR-Code for.
 ```
 
 ## output
